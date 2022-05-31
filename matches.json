@@ -8,13 +8,13 @@
     "Mandante" : {
       "nome" : "Brasil",
       "Força" : 5,
-      "imagem" : "TODO"
+      "imagem" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlZcu2ikmzc_22SUG6Xgz8PHZfV96WPjP5MQ&usqp=CAU"
     
     },
     "Visitante" : {
       "nome" : "Argentina",
       "Força" : 5,
-      "imagem" : "TODO"
+      "imagem" : "https://img.freepik.com/vetores-gratis/ilustracao-de-bandeira-argentina_53876-27120.jpg?w=2000"
     }
     
   }
